@@ -141,7 +141,7 @@ recommendations = analyzer.generate_policy_insights()
 
 ## 🤝 Contributing
 
-This research is part of a Master's Thesis at Politecnico di Milano. For academic collaborations or research inquiries, please contact the author.
+This research is part of a course project at Politecnico di Milano. For academic collaborations or research inquiries, please contact the author.
 
 ## 📄 License
 
