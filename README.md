@@ -1,7 +1,7 @@
 
 # 🎓 Advanced Flight Route Analysis System
 
-## Politecnico di Milano - GeoInformatics Engineering Master's Thesis
+## Politecnico di Milano - GeoInformatics Engineering 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
