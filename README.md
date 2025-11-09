@@ -301,15 +301,3 @@ This research demonstrates the power of integrating graph theory, environmental 
 ### C. Code Repository
 - Full implementation available at: [GitHub Repository URL]
 - Documentation and usage examples provided
-```
-
----
-
-## 🎯 Key Points About Data Sources:
-
-1. **Real-World Inspired**: Data is synthetic but based on real statistical patterns and industry standards
-2. **Academic Rigor**: Methods follow peer-reviewed research approaches
-3. **Scalable Framework**: Can be easily adapted to use real operational data
-4. **Transparent Methodology**: All calculations and assumptions are clearly documented
-
-The system provides a robust analytical framework that produces realistic and actionable insights for aviation network optimization!
