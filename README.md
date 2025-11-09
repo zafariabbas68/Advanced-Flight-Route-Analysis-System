@@ -38,8 +38,8 @@ A comprehensive analysis of global flight networks integrating graph theory, env
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/flight-network-analysis.git
-cd flight-network-analysis
+git clone https:https://github.com/zafariabbas68/Advanced-Flight-Route-Analysis-System.git
+
 
 # Install dependencies
 pip install -r requirements.txt
