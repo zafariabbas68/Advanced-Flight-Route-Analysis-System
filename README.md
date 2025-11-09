@@ -299,5 +299,5 @@ This research demonstrates the power of integrating graph theory, environmental 
 - Environmental cost modeling
 
 ### C. Code Repository
-- Full implementation available at: [GitHub Repository URL]
+- Full implementation available at: [[GitHub Repository URL](https://github.com/zafariabbas68/Advanced-Flight-Route-Analysis-System.git)]
 - Documentation and usage examples provided
