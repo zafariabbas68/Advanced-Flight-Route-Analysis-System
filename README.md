@@ -292,7 +292,7 @@ If you use this research in your work, please cite:
 **Ghulam Abbas Zafari**  
 GeoInformatics Engineering Master's graduate Student  
 Politecnico di Milano  
-[GitHub](https://github.com/zafariabbas68) | [LinkedIn](https://linkedin.com/in/ghulamabbaszafari)
+[GitHub](https://github.com/zafariabbas68) | [LinkedIn](https://www.linkedin.com/in/ghulam-abbas-zafari-b94105248/)
 
 ---
 
