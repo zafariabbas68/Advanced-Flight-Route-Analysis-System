@@ -154,11 +154,10 @@ MIT License - See LICENSE file for details
 - **World Bank** - Economic and demographic datasets
 ```
 
----
+
 
 # 📄 Technical Report (Word Document Content)
 
-```markdown
 # TECHNICAL REPORT: Advanced Flight Network Analysis System
 
 ## Executive Summary
@@ -188,7 +187,7 @@ The aviation industry faces increasing pressure to balance economic growth with 
 # - GDP per capita data
 # - Airport connectivity indices
 # - Economic sector profiles
-```
+
 
 #### 2.1.2 Aircraft Specifications
 - Manufacturer performance data
