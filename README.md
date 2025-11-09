@@ -255,7 +255,7 @@ strategies = climate_analyzer.calculate_carbon_offset_strategy()
 
 ## 🤝 Contributing
 
-This research is part of a Master's Thesis at Politecnico di Milano GeoInformatics Engineering. For academic collaborations or research inquiries:
+This research is part of study at Politecnico di Milano GeoInformatics Engineering. For academic collaborations or research inquiries:
 
 1. **Fork** the repository
 2. **Create** a feature branch
