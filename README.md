@@ -1,5 +1,5 @@
 
-# 🎓 Advanced Flight Network Analysis - Master's Thesis
+# 🎓 Advanced Flight Network Analysis 
 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
