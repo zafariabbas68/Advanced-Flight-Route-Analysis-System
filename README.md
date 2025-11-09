@@ -279,7 +279,7 @@ MIT License - see LICENSE file for details
 If you use this research in your work, please cite:
 
 ```bibtex
-@mastersthesis{zafari2024flight,
+@mastersresearch{zafari2024flight,
   title={Advanced Flight Network Analysis: Integrating Graph Theory and Environmental Economics},
   author={Zafari, Ghulam Abbas},
   year={2024},
