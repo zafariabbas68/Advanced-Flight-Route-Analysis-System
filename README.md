@@ -290,7 +290,7 @@ If you use this research in your work, please cite:
 ## 📞 Contact
 
 **Ghulam Abbas Zafari**  
-GeoInformatics Engineering Master's Student  
+GeoInformatics Engineering Master's graduate Student  
 Politecnico di Milano  
 [GitHub](https://github.com/zafariabbas68) | [LinkedIn](https://linkedin.com/in/ghulamabbaszafari)
 
